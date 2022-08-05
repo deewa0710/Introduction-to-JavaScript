@@ -60,9 +60,7 @@ Do the following:
    3. Multiply a and b and return the answer
 */
 
-function multiply(a,b){
-  return a * b;
-}
+  (a, b) => a * b
 
 
 
